@@ -1,4 +1,5 @@
 ## Hi there 👋 I am vishwa[![Vishwa GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwa-10147)](https://github.com/vishwa-10147/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-10147)](https://github.com/vishwa-10147/github-readme-stats)
 ### I am currently
  Data science 
  computer networks
