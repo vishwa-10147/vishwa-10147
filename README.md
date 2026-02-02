@@ -16,7 +16,8 @@ My goal is to design secure, scalable, and intelligent infrastructures that comb
 - Machine Learning & Deep Learning
 - Computer Networks & Network Security
 - Linux Systems & System Administration
-- 
+
+
 ## 🔧 Technical Skills
 
 ### 👨‍💻 Programming
