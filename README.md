@@ -119,17 +119,6 @@ and management dashboards.
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning & Transformers
-- Linux Internals
-- System Design
-- Cloud & Infrastructure Security
-- Advanced Networking Concepts
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/vishwa-10147
